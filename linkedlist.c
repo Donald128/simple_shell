@@ -1,4 +1,8 @@
-/* File: linkedlist.c */
+/*
+ * File: linkedlist.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

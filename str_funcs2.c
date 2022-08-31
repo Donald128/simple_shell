@@ -1,4 +1,8 @@
-/* File: str_funcs2.c */
+/*
+ * File: str_funcs2.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

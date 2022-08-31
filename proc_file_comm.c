@@ -1,4 +1,8 @@
-/* File: proc_file_comm.c */
+/*
+ * File: proc_file_comm.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

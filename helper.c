@@ -1,4 +1,8 @@
-/* File:helper.c */
+/*
+ * File: helper.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

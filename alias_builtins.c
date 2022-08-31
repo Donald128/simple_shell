@@ -1,6 +1,6 @@
 /*
  * File: alias_builtins.c
- * Auth: tewodros awedew and messi zewdi
+ * Authors: Donald Kargbo and Christian Nebo
  */
 #include "shell.h"
 

@@ -1,4 +1,8 @@
-/* File: main.c */
+/*
+ * File: main.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

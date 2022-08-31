@@ -1,7 +1,7 @@
 /*
  * File: getline.c
- * Authors: tewodros awedew
- *          messi zewde
+ * Authors: Donald Kargbo
+ *          Christian Nebo
  */
 
 #include "shell.h"

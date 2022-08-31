@@ -1,4 +1,8 @@
-/* File: split.c */
+/*
+ * File: split.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

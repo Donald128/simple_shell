@@ -1,4 +1,8 @@
-/* File: input_helpers.c */
+/*
+ * File: input_helpers.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 

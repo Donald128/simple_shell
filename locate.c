@@ -1,4 +1,8 @@
-/* File: locate.c */
+/*
+ * File: locate.c
+ * Authors: Donald Kargbo
+ *          Christian Nebo
+ */
 
 #include "shell.h"
 
